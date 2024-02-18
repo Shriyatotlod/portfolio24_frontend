@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "date": "14/01/2024",
+      "title": "Movix",
+      "description": "Movix is an website where you can browse top rated popular or with many featured movies, created based on react components." ,
+      "url": "https://movixwebsite-virid.vercel.app/",
+      "imgSrc": "https://tse3.mm.bing.net/th?id=OIP.845JsB04N9stUnTfJkcUiwHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "date": "29/01/2023",
+      "title": "MBA BURGERWALA",
+      "description": "This is the frontend part of project.Built using ReactJs.  ",
+      "url": "https://mba-burgerwala.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ejmuac53hsavkaezd2qk"
+    },
+    {
+      "date": "03/03/2023",
+      "title": "PORTFOLIO",
+      "description": "The project with name PORTFOLIO is ReactJs project and is responsive.The components in this project are made reusable.",
+      "url": "/",
+      "imgSrc": "https://www.tuacarreira.com/wp-content/uploads/2019/09/portfolio-1200x900.jpg"
+    },
+    {
+      "date": "030/03/2023",
+      "title": "CourseBundler",
+      "description": "CourseBundler provides courses to the users to buy course and users can sell their courses as well",
+      "url": "https://course-bundlers.vercel.app/",
+      "imgSrc": "https://media.instamojo.com/imgs/6fa4df6091774aa5953945b00a24a308.png"
+    }
+  ]
+}
