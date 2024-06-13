@@ -10,7 +10,7 @@ const Footer = () => {
     <footer>
       <div>
         <img
-          src={"https://media.licdn.com/dms/image/D5603AQGgcdzeco9dcg/profile-displayphoto-shrink_800_800/0/1689103794960?e=1710979200&v=beta&t=Qxo06D5Zq9LH4w38pYZdJfPsMm40spuvun91PdhSz5U"}
+          src={"https://res.cloudinary.com/dvlr0nsmw/image/upload/v1708186921/portfolio/kq6l4peeb5yekzx0xxe3.jpg"}
           alt="Founder"
         />
 
