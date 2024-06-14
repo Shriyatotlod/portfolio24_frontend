@@ -54,7 +54,7 @@ const Home = ({ ratio,user }) => {
           />
 
           <div>
-            <a href="mailto:saikirannarawad0@gmail.com">Hire Me</a>
+            <a href="mailto:shriyatotlod2001@gmail.com">Hire Me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
@@ -78,13 +78,13 @@ const Home = ({ ratio,user }) => {
 
             <article data-special>
               <p>Contact</p>
-              <span>saikirannarawad0@gmail.com & 7666833903</span>
+              <span>shriyatotlod2001@gmail.com & 8459184799</span>
             </article>
           </aside>
         </div>
       </section>
       <section>
-        <img src= {user.about.avatar.url} alt="SAIKIRAN" />
+        <img src= {user.about.avatar.url} alt="shriya" />
       </section>
       <BsChevronDown />
     </div>

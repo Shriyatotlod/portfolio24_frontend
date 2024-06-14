@@ -10,11 +10,11 @@ const Footer = () => {
     <footer>
       <div>
         <img
-          src={"https://res.cloudinary.com/dvlr0nsmw/image/upload/v1708186921/portfolio/kq6l4peeb5yekzx0xxe3.jpg"}
+          src={"https://avatars.githubusercontent.com/u/85033593?v=4"}
           alt="Founder"
         />
 
-        <h2>Saikiran Narawad</h2>
+        <h2>Shriya Totlod</h2>
         <p>Motivation is temporary, but discipline last forever.</p>
       </div>
 
@@ -22,10 +22,10 @@ const Footer = () => {
         <h2>Connect With Me...</h2>
 
         <article>
-          <a href="https://www.linkedin.com/in/saikiran-narawad-88aab91b4/" target={"blank"}>
+          <a href="https://www.linkedin.com/in/shriya-totlod-674442222/" target={"blank"}>
             <AiFillLinkedin />
           </a>
-          <a href="https://github.com/saikirannarawad?tab=repositories" target={"blank"}>
+          <a href="https://github.com/Shriyatotlod" target={"blank"}>
             <AiFillGithub />
           </a>
         </article>
