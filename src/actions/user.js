@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const server = "https://portfolio-server-2irs.onrender.com";
+const server = "https://portfolio-server-mfi5.onrender.com/";
 
 export const getUser = () => async (dispatch) => {
   try {
